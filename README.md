@@ -13,9 +13,8 @@ Colección de juegos clásicos implementados con diferentes tecnologías web y b
 
 ## 🚧 Próximos Juegos
 
-- **Solitario**
 - **Sudoku**
-- **Ajedrez**  
+- **¿Ajedrez?**  
 
 ## 🚀 Características
 
