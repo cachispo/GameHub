@@ -25,8 +25,8 @@ Colección de juegos clásicos implementados con diferentes tecnologías web y b
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/gamehub.git
+git clone https://github.com/tu-usuario/ludolab.git
 
 # Jugar al buscaminas
-cd gamehub/buscaminas
+cd ludolab/buscaminas
 open index.html
