@@ -1,10 +1,33 @@
-# GameHub
+# GameHub 🎮
 
-💣💥
+**Plataforma multi-juego para Proyecto de Fin de Grado ASIR**
 
-Este va a ser mi proyecto de fin de grado para ASIR, de momento incluye un buscaminas escrito en JavaScript.
+Colección de juegos clásicos implementados con diferentes tecnologías web y backend.
 
-Cosas a añadir
-- Sudoku
-- ¿Solitario?
-- ¿Ajedrez?
+## 🎯 Juegos Implementados
+
+### ✅ Buscaminas
+- **Tecnología:** JavaScript vanilla (HTML, CSS, JS)
+- **Características:** 3 niveles de dificultad, cronómetro, sistema de banderas
+- **Estado:** Completo y funcional
+
+## 🚧 Próximos Juegos
+
+- **Solitario**
+- **Sudoku**
+- **Ajedrez**  
+
+## 🚀 Características
+
+- ✅ Interfaz responsive y accesible
+- ✅ Múltiples niveles de dificultad
+
+## 📦 Instalación
+
+```bash
+# Clonar repositorio
+git clone https://github.com/tu-usuario/gamehub.git
+
+# Jugar al buscaminas
+cd gamehub/buscaminas
+open index.html
